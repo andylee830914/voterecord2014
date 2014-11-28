@@ -14,7 +14,7 @@ $area=array("TC100000000","TC200000000","TC300000000","TC400000000","TC500000000
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>iRS</title>
+        <title>拉拉拉拉拉拉拉開票歷程</title>
         <link href="dist/css/bootstrap.min.css" rel="stylesheet">
         <style type="text/css">
             body {
@@ -112,7 +112,7 @@ $area=array("TC100000000","TC200000000","TC300000000","TC400000000","TC500000000
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="">拉拉拉拉拉之豪華雙B</a>
+                    <a class="navbar-brand" href="">拉拉拉拉拉拉拉開票歷程</a>
                 </div>
 
             </div>
@@ -132,7 +132,7 @@ $area=array("TC100000000","TC200000000","TC300000000","TC400000000","TC500000000
             <table id="myTable" class="table table-bordered">
                 <thead>
                 <tr>
-                    <th>time</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th>
+                    <th>time</th><th>1號候選人</th><th>2號候選人</th><th>3號候選人</th><th>4號候選人</th><th>5號候選人</th><th>6號候選人</th><th>7號候選人</th>
                 </tr>
                 </thead>
                 <tbody></tbody>
