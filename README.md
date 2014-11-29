@@ -3,7 +3,10 @@ voterecord2014
 
 將六都開票過程存入資料庫，事後可繪製時間與票數關係圖。<br>
 更新時間為一分鐘。<br>
-其中，時間欄位為讀取g0v資料後送至伺服器的寫入時間，可能與中選會有數分鐘落差，請見諒！
+
+結果說明
+==============
+時間欄位為讀取g0v資料後送至伺服器的寫入時間，可能與中選會有數分鐘落差，請見諒！
 ###資料表格式
 <table>
 <tr><td>time</td><td>area</td><td>vote1</td><td>vote2</td><td>vote3</td><td>vote4</td><td>vote5</td><td>vote6</td><td>vote7</td><td>open</td></tr>
